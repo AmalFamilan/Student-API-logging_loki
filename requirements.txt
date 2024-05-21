@@ -1,0 +1,4 @@
+Flask==3.0.3
+pymongo==4.7.2
+logging==0.4.9.6
+python-logging-loki==0.3.1
